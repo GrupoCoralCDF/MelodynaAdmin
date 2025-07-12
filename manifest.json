@@ -1,7 +1,7 @@
 {
     "name": "Melodyna",
     "short_name": "Melodyna",
-    "start_url": "/admin/",
+    "start_url": "./",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#000000",
